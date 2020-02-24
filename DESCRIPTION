@@ -1,0 +1,15 @@
+Package: stawitzhelper
+Title: My helper functions
+Version: 0.0.0.9000
+Authors@R: 
+          c(person("Christine", 
+          "Stawitz", 
+          email = "cstawitz@uw.edu", 
+          role = c("aut", "cre")))
+Description: This package has some helpful functions I wrote.
+Depends: R (>= 3.5.0)
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr
