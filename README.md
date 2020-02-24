@@ -1,2 +1,2 @@
-# stawitz_helper
+# stawitzhelper
 Helper functions I use a lot
